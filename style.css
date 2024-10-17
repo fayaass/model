@@ -84,5 +84,12 @@ nav{
     color: black;
 }
 
+.add{
+    color: red;
+    margin-bottom: 300px;
+}
 
+#img{
+    display: flex;
+}
 
