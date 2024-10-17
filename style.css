@@ -86,10 +86,36 @@ nav{
 
 .add{
     color: red;
-    margin-bottom: 300px;
+    margin-top: 1px;
+    padding-left: 20px;
 }
 
-#img{
+.add1{
+    padding-top: 40px;
+    width: 500px;
+    margin-left: -30px;
+    font-weight: bold;
+}
+
+.add2{
+    padding-top: 80px;
+    margin-left: -189px;
+    width: 250px;
+}
+
+#asd{
     display: flex;
+    
 }
 
+#a{
+    margin-left: 100px;
+}
+
+#b{
+    margin-left: 100px;
+}
+
+#c{
+    margin-left: 100px;
+}
